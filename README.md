@@ -19,6 +19,7 @@ This project is a digital platform that automates the credit management process.
 - MongoDB
 - JQuery
 
-## Live Demo
+## Project Report 
+link to project report : https://drive.google.com/file/d/1bjihyHmLssAjLDEpMfF18yJSjKL5Es7b/view?usp=share_link
 
 
