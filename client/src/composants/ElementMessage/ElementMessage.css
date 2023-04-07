@@ -1,0 +1,31 @@
+
+
+.elementMessage{
+    padding-left: 10px;
+}
+
+
+.img_scale{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.BulleImgContianer{
+    display: flex;
+}
+
+.imgContianer{
+    display: flex;
+    align-items: center;
+}
+
+.Client{
+    display: flex;
+    justify-content: start;
+}
+
+.Agent{
+    display: flex;
+    justify-content: end;
+}

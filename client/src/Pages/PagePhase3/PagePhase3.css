@@ -1,0 +1,12 @@
+.EtudImgScale{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+
+.ImgWrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

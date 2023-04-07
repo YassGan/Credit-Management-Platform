@@ -1,0 +1,68 @@
+.liste2buttonsContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+#DatePremierdepot {
+  padding-left: 20px;
+  width: 300px;
+}
+
+#Montant {
+}
+
+#nom {
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+#DatePremierdepotdemande {
+  width: 250px;
+}
+
+#Montantdemande {
+  width: 120px;
+}
+
+#nom {
+  width: 160px;
+}
+
+
+#TypeDeLaDemande{
+  width: 150px;
+}
+
+.title_elementdemande{
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-inline-end: 5px;
+
+}
+
+#mensualité{
+  width: 150px;
+}
+
+#durée{
+  width: 150px;
+}
+
+#Xmark:hover{
+  background: rgb(175, 220, 230);
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+  transition: 0.2s all ease;
+  cursor: pointer;
+}

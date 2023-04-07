@@ -1,0 +1,104 @@
+.icone_scale {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.user_name {
+}
+
+.user_role {
+  padding-left: 10px;
+  color: #8a8989;
+}
+.navbar {
+  grid-area: nav;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px 0 10px;
+  border-bottom: 1px solid rgb(185, 181, 181);
+  background: #e3e3e3;
+}
+
+.navbar_user_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav_icon {
+  display: none;
+}
+
+.nav_icon > i {
+  font-size: 26px;
+  color: aquamarine;
+}
+
+.navbar__left > a {
+  margin-right: 30px;
+  text-decoration: none;
+  color: blanchedalmond;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.navbar__left .active_link {
+  color: blue;
+  border-bottom: 3px solid greenyellow;
+  padding-bottom: 12px;
+}
+
+.navbar__right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.navbar__right > a {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.navbar__right > a > i {
+  color: beige;
+  font-size: 16px;
+  border-radius: 50px;
+  background: wheat;
+  box-shadow: 2px 2px 5px gray, -2px -2px 5px white;
+  padding: 7px;
+}
+
+@media only screen and (max-width: 978px) {
+  .nav_icon {
+    display: inline;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .navbar__left {
+    display: none;
+  }
+}
+
+
+#deconIcone{
+  width: 27px;
+  height: 27px;
+  padding: 5px;
+  cursor: pointer;
+  
+}
+
+#deconIcone:hover{
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+  background: rgb(193, 212, 220);
+  border-radius: 15px;
+  
+}

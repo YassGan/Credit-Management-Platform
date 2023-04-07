@@ -1,0 +1,45 @@
+
+
+.flexing{
+    display: flex;
+    align-items: center;
+}
+
+.Title_Page1{
+    padding-right: 10px;
+}
+
+
+
+.contenuD{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.ImporterDoCBoxesContainer{
+    margin-top: 50px;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.listaD{
+    list-style: none;
+}
+
+.InfoContainer{}
+
+
+.InfoWrapper{
+margin-top: 50px;
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.Info{
+    padding-top: 40px;
+}

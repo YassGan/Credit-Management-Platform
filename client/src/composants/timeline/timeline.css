@@ -1,0 +1,156 @@
+.timeline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.reponsecont{
+  color: rgb(206, 204, 204);
+  padding-left: 5px;
+}
+
+.cercle {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  background: rgb(24, 101, 33);
+}
+
+.rectangle {
+  width: 150px;
+  height: 6px;
+  background: rgb(204, 228, 226);
+  margin-left: 0px;
+}
+
+.phase1_phase_validée_rectangle {
+  width: 150px;
+  height: 6px;
+  background: rgb(204, 228, 226);
+  margin-left: 0px;
+  background: rgb(24, 101, 33);
+}
+
+.phase {
+  display: flex;
+  align-items: center;
+  align-items: center;
+}
+
+.timeline_container {
+  background-color: #499ece;
+  width: 830px;
+  border-radius: 10px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.component_container {
+  display: flex;
+  justify-content: center;
+}
+
+.phases_titles_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#EtudeDossierBabel{
+  padding-left: 20px;
+}
+
+.phase_title {
+
+  margin-top: 15px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phase1_space{
+  margin-top: 100px;
+}
+
+.timeline_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+#Cerclen°1:hover{
+width: 40px;
+height: 40px;
+border-radius: 20px;
+transition: 0.4s all ease;
+cursor: pointer;
+}
+
+#Cerclen°2:hover{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  transition: 0.4s all ease;
+  cursor: pointer;
+  }
+
+  #Cerclen°3:hover{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    transition: 0.4s all ease;
+    cursor: pointer;
+    }
+
+    #Cerclen°4:hover{
+      width: 40px;
+      height: 40px;
+      border-radius: 20px;
+      transition: 0.4s all ease;
+      cursor: pointer;
+      }
+      #Cerclen°5:hover{
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        transition: 0.4s all ease;
+        cursor: pointer;
+        }
+
+.demande_some_info {
+}
+
+.credit_info_elemnt {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  padding-left: 40px;
+}
+
+.phase_en_cours_d_etude {
+  background: rgb(204, 140, 55);
+}
+
+.phase_validée {
+  background: rgb(24, 101, 33);
+}
+
+.phase_refusée {
+  background: rgb(226, 59, 59);
+}
+
+.phase_pas_encore {
+  background-color: aliceblue;
+}
+
+.statut_global_de_la_demande {
+  padding-left: 10px;
+  font-size: 16px;
+}
+
+.statut_global_de_la_demande_container {
+}

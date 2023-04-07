@@ -1,0 +1,64 @@
+.BulleMessage{
+    background: #2d9dde;
+
+    width: 280px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 10px;
+    padding: 10px;
+
+    
+}
+
+.contMessage{
+}
+
+.MessageArea{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 13px;
+
+}
+
+.boutonEnvoyer{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+    transform:rotate(45deg);
+    cursor: pointer;
+}
+
+.DateTimeContainer{
+    width: 325px;
+    display: flex;
+    justify-content: end;
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.TimeDisplaying{
+    padding-right: 10px;
+}
+
+.SendedMessages{
+    height: 420px;
+    overflow-y: scroll;
+}
+
+.sendScale{
+    width: 30px;
+    height: 30px;
+}
+
+.InputMessage{
+    width: 1139px;
+    height: 100px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: 1px solid gray;
+    padding-left: 10px;
+    padding-top:-20px;
+
+}

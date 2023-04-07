@@ -1,0 +1,59 @@
+
+
+.StatistiquesGloContainer{
+}
+
+
+.BarchartNombNvHomFem{
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    border: 1px solid lightgray;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 2px 19px -5px gray;
+}
+
+
+.EvolutionNomNvxClients{
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0px 2px 19px -5px gray;
+
+
+
+}
+
+.RepréseantationParAge{
+
+    width: 320px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0px 2px 19px -5px gray;
+
+
+
+
+}
+
+
+.Line1Stat{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+
+
+}

@@ -1,0 +1,39 @@
+
+.listeDocumentsContainer{
+    width: 800px;
+}
+
+.listeDocuments{
+    color: black;
+}
+
+.ListeDocumentesWrapper{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.DoxBoxWrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.DocBoxContainer{
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+    
+}
+
+
+
+
+.BoxNonComponent{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.docBoxSpeci{
+}

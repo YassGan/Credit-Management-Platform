@@ -1,0 +1,130 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.modifier_button_container {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.infoEl{
+  padding: 1px;
+}
+
+.modifer_button {
+  width: 85px;
+  height: 27px;
+  background-color: #5daa4d;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-right: 70px;
+}
+.profile_box {
+  width: 830px;
+  background: #499ece;
+  border-radius: 9px;
+}
+
+.profile_box_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo_id_box {
+  background: #e0e0e0;
+  width: 250px;
+  border-radius: 15px;
+  margin-right: 20px;
+  padding-right: 10px;
+  display: flex;
+  padding: 20px;
+}
+.photo_container {
+  margin-right: 25px;
+}
+.profile_photo_scale {
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
+}
+.nom_prenom_id_container1 {
+  display: block;
+  margin-top: 15px;
+  width: 100px;
+}
+.nom_prénom_container1 {
+}
+#nom {
+}
+.id_container {
+  display: flex;
+  justify-content: center;
+}
+.user_id {
+  color: #8a8989;
+  padding-top: 5px;
+}
+
+.information_box {
+  background: #e0e0e0;
+  width: 650px;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+}
+.two_boxes_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo_information_container {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 30px;
+  padding: 20px;
+}
+
+.information_box_title {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.info_icone_scale {
+  width: 25px;
+  height: 25px;
+}
+
+.informaton_icone_container {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.information_2_boxes_container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.info_one_box {
+  height: 80px;
+}
+.left_box {
+  display: flex;
+  justify-content: space-between;
+}
+.info_content_block {
+  color: #8a8989;
+}
+.right_box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.profile_container {
+  margin-top: 40px;
+}

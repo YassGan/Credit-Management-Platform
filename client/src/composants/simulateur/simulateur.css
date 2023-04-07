@@ -1,0 +1,78 @@
+:root {
+  --font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  --couleur_primaire_bleue: #0086d2;
+}
+
+.comboboxes_container {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.ao{
+  padding: 2px;
+}
+
+
+
+
+
+.icone_scale {
+  width: 27px;
+  height: 27px;
+  margin-left: -5px;
+}
+
+.simulateur_titre {
+  width: 50%;
+  background: var(--couleur_primaire_bleue);
+}
+.backGroundColor{
+  background: gray;
+}
+.simuler_titre {
+  font-size: 21px;
+  color: rgb(240, 240, 240);
+}
+
+.simulateur_titre_container {
+  display: flex;
+  justify-content: center;
+  font-family: var(--font);
+}
+
+.combo_stand {
+  width: 120px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  font-family: var(--font);
+}
+.title_container {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+}
+
+.result_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #458662;
+  width: 110px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.result_button:hover {
+  justify-content: space-around;
+  transform: all 0.1s ease;
+}
+
+#result_button {
+  background-color: transparent;
+}

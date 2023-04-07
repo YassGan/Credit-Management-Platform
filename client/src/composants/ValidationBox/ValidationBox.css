@@ -1,0 +1,33 @@
+
+
+.ValidationBox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.imgScaleButtonValidation{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    transition: 100ms all ease-in-out;
+}
+
+.imgScaleButtonValidation:hover{
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.ValidationBoxContainer{
+    width: 400px;
+    padding-bottom: 40px;
+    
+
+}
+
+.ValidaitonBoxWrapper{
+    display: flex;
+    justify-content: center;
+}

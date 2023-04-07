@@ -1,0 +1,120 @@
+body {
+  background-color: #0086d2;
+}
+
+.logo_img_container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo_img {
+  width: 340px;
+  height: 160px;
+}
+.connexionBoxone {
+  width: 40%;
+  background: #e3e3e3;
+  border-radius: 9px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.connexionBoxoneContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input_element {
+  background-color: transparent;
+  border-radius: 9px;
+  border: 1px solid rgb(0, 0, 0);
+  height: 28px;
+  padding-left: 10px;
+}
+
+.element_input_container {
+  display: block;
+}
+
+.input_element_writing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input_title {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttn {
+  width: 200px;
+  height: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9px;
+}
+
+.button_container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Mot_de_passe_oublié_container {
+  margin-top: 40px;
+  color: #726161;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.horizental_line_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.horizental_line {
+  margin-top: 10px;
+  width: 200px;
+}
+
+.créer_nouveau_compte_btn {
+  background-color: #41915f;
+}
+
+.se_connecter_button {
+  background-color: #0086d2;
+}
+
+.errorMessage {
+  color: rgb(231, 34, 34);
+  font-size: large;
+}
+
+#PasswordError {
+  display: none;
+}
+
+#EmailError {
+  display: none;
+}
+
+#seConnecterButton {
+  width: 200px;
+  height: 45px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,19 @@
+
+
+
+.MessagerieContainer{
+    background: #E3E3E3;
+    align-items: center;
+    justify-content: center;
+    width: 1150px;
+    height: 540px;
+    border-radius: 25px;
+    border: 1px solid #707070;
+}
+
+.MessagerieWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

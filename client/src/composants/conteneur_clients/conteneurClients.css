@@ -1,0 +1,240 @@
+.CLientsContainer {
+  background: #E2E2E2;
+  width: 980px;
+  border-radius: 7px;
+}
+
+.listeClientsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #499ece;
+  width: 1020px;
+  border-radius: 9px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.CLientsContainer {
+}
+
+.conteneurprincipal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clients2emecontainer {
+  width: 970px;
+}
+
+.clientTypesContainer {
+  padding-left: 20px;
+  padding-bottom: 25px;
+}
+
+.ListeClientsButton {
+  padding-right: 25px;
+}
+
+.lignne_horizental_liste_button {
+  background-color: black;
+  border: 1px solid black;
+}
+
+.table {
+}
+
+.portraitimg {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.button1_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.people_icone {
+  width: 22px;
+  height: 20px;
+  margin-right: 10px;
+}
+.portraitimgcont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table_ligne_principale {
+  display: flex;
+  padding-left: 20px;
+}
+
+#imageEelement {
+  padding-right: 20px;
+}
+
+#IdElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+#NomPrenomElement {
+  padding-bottom: 40px;
+  width: 200px;
+
+}
+
+#DatedeNaissanceElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+  width: 160px;
+}
+
+#ProfessionElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+#SalaireElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+#AdresseMailElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+  width: 200px;
+}
+
+#NumTelElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+#ConsulterElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+#SupprimerElement {
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+.horizental_line_elements {
+  border: 1px solid black;
+}
+
+.horizental_line_elements_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title_element {
+  padding-bottom: 20px;
+}
+
+
+
+.searchBarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: first baseline;
+}
+
+.searchBar {
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.input_search_bar {
+  border-radius: 9px;
+  height: 20px;
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+.Xmark {
+  margin-top: -7px;
+  width: 30px;
+  height: 30px;
+}
+
+#Xmark {
+  margin-top: -7px;
+  width: 30px;
+  height: 30px;
+}
+
+
+
+.AjouterUnClientButton{
+  width: 140px;
+  height: 30px;
+  background: green;
+  border-radius: 7px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+}
+
+.input_search_bar{
+height: 27px;
+padding-left: 10px;
+}
+
+.boutonChercher{
+  margin-left: 10px;
+}
+
+
+
+.searchBarContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pointer_consulter{
+  cursor: pointer;
+}
+
+.pointer_consulter:hover{
+  cursor: pointer;
+  background: rgb(14, 108, 109);
+  width: 40px;
+  height: 40px;
+  border-radius: 25px;
+}
+
+.XmarkContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.info_element{
+height: 45px;
+display: flex;
+
+align-items: center;
+
+}
+
+.info_element_img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.coloBack{
+}

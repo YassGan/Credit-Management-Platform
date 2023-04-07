@@ -1,0 +1,120 @@
+.PageSuccesContainer {
+}
+
+.Line1ContainerPageSucces {
+  display: flex;
+}
+
+.LogoContainer {
+}
+
+.logoPageSucces {
+  width: 420px;
+}
+
+.line1container {
+  display: flex;
+  justify-content: center;
+}
+
+.line2container {
+}
+
+.BoxPageSuccesContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.BoxSuccesGray {
+  width: 600px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.messagePageSucces {
+  padding: 30px;
+  font-size: 14px;
+}
+
+.BoxSuccesWhite {
+  background: #e0e0e0;
+  width: 550px;
+  height: 450px;
+  border-radius: 15px;
+}
+
+.importationbox {
+  width: 500px;
+  height: 230px;
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.importationboxContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TerminerButton {
+}
+
+.TerminerButtonContainer {
+  background: green;
+  width: 150px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 11px;
+  margin-right: 50px;
+  cursor: pointer;
+}
+
+.ButtonTerminerLine {
+  margin-top: 28px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.boutonUpload{
+  width: 140px;
+  height: 25px;
+  background: rgb(44, 119, 44);
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.BoutonUploadLine{
+  padding-left: 64%;
+
+}
+
+.boutonUploadContainer{
+  position: absolute;
+  margin-top: -18px;
+  margin-left: 22%;
+}
+
+.ProfileUploadingImageScale{
+  width: 140px;
+  height: 140px;
+  border-radius: 70px;
+  border: 1px solid rgb(121, 121, 121);
+}
+
+
+.ImageUploadedContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+
+ 
+
+}

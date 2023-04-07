@@ -1,0 +1,34 @@
+.ContainerLinesPageAccueilModerne{
+
+    
+    background: rgb(0,134,210);
+    background: linear-gradient(90deg, rgba(0,134,210,1) 0%, rgba(87,145,195,1) 100%);
+
+
+    height: 100vh;
+}
+
+
+
+.btnnn{
+
+    width: 140px;
+    background-color: rgb(13, 82, 93);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 20px;
+    border-radius: 9px;
+    font-size: 14px;
+    padding: 4px;
+}
+
+
+.ButtonFontSize{
+    font-size: 18px;
+}
+
+.DemandeTitre{
+    font-size: 37px;
+}

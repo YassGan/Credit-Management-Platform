@@ -1,0 +1,86 @@
+
+
+.ligneBoutonNvRemb{
+    margin-top: 25px;
+    display: flex;
+    justify-content: end;
+    padding-bottom: 40px;
+}
+
+
+.boutonNv{
+    width: 210px;
+    height: 35px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: green;
+    cursor: pointer;
+    margin-right: 100px;
+}
+
+.RemboursementsContaier{
+}
+
+
+
+
+.remboursementElement{
+    height: 130px;
+    width: 740px;
+ /*   background-color: rgb(49, 107, 107);*/
+
+    background-color: #0c7ec0;
+    margin-left: 220px;
+    margin-right: 230px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    margin-top: 8px;
+}
+
+.RemboursementTitleContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.TextEL{
+    padding-bottom: 4px;
+    display: flex;
+}
+
+.RemboursementElementBlock{
+    margin-top: 15px;
+  /* border: 1px solid black;*/
+    border-radius: 10px;
+
+
+    width: 270px;
+margin-left: 4px;
+
+}
+.BlocksContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.BottomLineContianer{
+    display: flex;
+    justify-content: center;
+    padding-top: 7px;
+}
+
+.BottomLine{
+    display: flex;
+}
+
+
+
+
+
+
+

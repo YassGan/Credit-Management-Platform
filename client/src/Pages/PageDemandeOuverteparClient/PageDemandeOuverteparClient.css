@@ -1,0 +1,64 @@
+.PageDemandeOuvertParClientcontainer {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 0.8fr 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 3fr;
+  grid-template-areas:
+    "sidebar nav nav nav"
+    "sidebar PageDemandeMainContainer PageDemandeMainContainer PageDemandeMainContainer ";
+}
+
+.PageDemandeMainContainer {
+  grid-area: PageDemandeMainContainer;
+  background: #e3e3e3;
+}
+
+.titre_container {
+}
+
+.timeline_cont {
+  width: 700px;
+  background: greenyellow;
+}
+
+.time_contt {
+  background: rgb(187, 181, 142);
+  width: 1000px;
+  background: #499ece;
+  border-radius: 9px;
+  margin-bottom: 20px;
+}
+
+.time_cont_container {
+  display: flex;
+  justify-content: center;
+}
+
+.bouton {
+  background: green;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9px;
+  margin-right: 60px;
+  cursor: pointer;
+}
+
+.boutonX {
+  cursor: pointer;
+  transform: rotate(45deg);
+  padding-right: 9px;
+}
+
+.boutonXContainer {
+  display: flex;
+  justify-content: end;
+}
+
+.bouton_container {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 20px;
+}

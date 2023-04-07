@@ -1,0 +1,68 @@
+
+
+.DocBoxContainerVerif{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.TitreContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.TitreContainer2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.fonting{
+    font-size: 28px;
+}
+
+.imgScaleButtonValidationPetit{
+    width: 40px;
+    height: 40px;
+}
+
+
+.imgScaleButtonValidationPetit:hover{
+    width: 50px;
+    height: 50px;
+    transition: 0.2s;
+    transform: all ease;
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+
+.ValidationBoxPetit{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.ValidationBoxWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+
+.colorin{
+}
+
+
+.Validée{
+    color: #16a085;
+}
+
+.cours{
+    color: #ff7900;
+
+}
+
+.Refusée{
+    color: #e24c4b;
+}

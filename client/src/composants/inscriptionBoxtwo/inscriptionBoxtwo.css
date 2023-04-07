@@ -1,0 +1,188 @@
+body {
+  background: #0086d2;
+}
+
+.logo_img {
+  width: 360px;
+  height: 160px;
+}
+
+.logo_img_container {
+  display: flex;
+  justify-content: center;
+}
+
+.InscriptionBox_container {
+  width: 70%;
+  background: #e3e3e3;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+}
+
+.InscriptionBox {
+  display: flex;
+  justify-content: center;
+}
+
+.Inscription_Box_left {
+  width: 60%;
+}
+
+.Inscription_Box_right {
+  width: 37%;
+}
+
+.input_information_container {
+  margin-left: 10px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nom_input {
+  display: flex;
+  align-items: center;
+}
+
+.prenom_input {
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.label_element {
+  font-size: 19px;
+  padding-right: 15px;
+  margin-top: 16px;
+}
+
+.input_element {
+  background-color: transparent;
+  border-radius: 15px;
+  border: 1px solid rgb(0, 0, 0);
+  height: 25px;
+  margin-top: 10px;
+}
+
+.nomPrenom_input_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#adresse_mail {
+  padding-left: 40px;
+  margin-right: 50px;
+  width: 400px;
+}
+
+.mailAdress_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.mail_adress_advice {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.motDePasse_input_container {
+  margin-top: 55px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Confirmer_input {
+  margin-right: 50px;
+}
+
+.mot_de_passe_adress_advice {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.chekBox_mot_de_passe {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.Mot_de_passe_check {
+  height: 10px;
+  width: 10px;
+}
+
+.affhcer_label {
+  margin-left: 20px;
+}
+
+.buttons_container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+
+.buttn {
+  width: 200px;
+  height: 40px;
+  border: 1px solid lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.Inscription_Box_right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Bank_photo {
+  width: 400px;
+  height: 280px;
+}
+
+.Accueil_btn {
+  background-color: #0086d2;
+}
+
+.suivant_btn {
+  background-color: #41915f;
+}
+
+#professionErr {
+  display: none;
+  color: red;
+}
+
+#NumCINErr {
+  display: none;
+  color: red;
+}
+
+#NumTelErr {
+  display: none;
+  color: red;
+}
+
+#adresseErr {
+  display: none;
+  color: red;
+}
+
+#dateNaissanceErr {
+  display: none;
+  color: red;
+}
+
+#DateNaissanceInput {
+  width: 164px;
+}

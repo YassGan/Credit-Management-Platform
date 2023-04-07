@@ -1,0 +1,23 @@
+.PageAdminListeClientscontainer {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 0.8fr 1fr 1fr 1fr;
+  grid-template-rows: 0.2fr 3fr;
+  grid-template-areas:
+    "sidebar nav nav nav"
+    "sidebar PageAdminListeClientsConteneur PageAdminListeClientsConteneur PageAdminListeClientsConteneur";
+}
+
+.PageAdminListeClientsConteneur {
+  grid-area: PageAdminListeClientsConteneur;
+  background: #e3e3e3;
+}
+
+.clientTypesContainer {
+  display: flex;
+  align-items: center;
+}
+
+.titre_conteneur {
+  padding-bottom: 40px;
+}

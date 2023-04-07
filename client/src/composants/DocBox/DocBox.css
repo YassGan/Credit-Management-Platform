@@ -1,0 +1,129 @@
+
+
+.ImgContainer{
+    width: 260px;
+    height: 290px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+    margin-top: 10px;
+}
+
+.imgBoxContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ImporterDemandeBox{
+    width: 317px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.TwoButtonsImportContainer{
+    display:  flex;
+    align-items: center;
+    height: 30px;
+    width: auto;
+    border-radius: 25px;
+}
+
+.UploadeButton{
+    background: rgb(26, 94, 139);
+    width: 80px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin-right:4px ;
+    cursor: pointer;
+    
+
+}
+
+.imgScale{
+    width: 260px;
+    height: 290px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.CINImgScale{
+    width: 440px;
+    height: 250px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid black;
+
+
+}
+
+
+
+
+.validerButtonContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.valider{
+    background: green;
+    width: 80px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin-right:4px ;
+    cursor: pointer;
+}
+
+
+.test2classes{
+    
+}
+
+
+.imgScale2{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.titreDuBox{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.ImporterDocuBox{
+    width: 337px;
+
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 15px;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.ImporterDocuBoxCIN{
+    width: 467px;
+
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 15px;
+    align-items: center;
+    border: 1px solid black;
+
+}

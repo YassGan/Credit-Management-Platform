@@ -1,0 +1,186 @@
+.bgModal {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PopUpWindowModification1Container {
+  width: 400px;
+  background: white;
+  height: 96%;
+  border-radius: 15px;
+}
+
+.PhotoProfil {
+  width: 125px;
+  height: 100px;
+}
+
+.InputContainer {
+  padding-left: 20px;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+}
+
+.buttonModi {
+  width: 150px;
+  height: 24px;
+  border-radius: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(179, 179, 179);
+  margin-left: 5px;
+}
+
+.twoButtonsContainerImg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ImageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ModifierProfilTitle {
+  margin-left: 40px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.NomContainerTitle {
+  margin-top: 10px;
+}
+
+.twoButtonsContainerValidation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.AnnulerButton {
+}
+
+.ButtonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  height: 30px;
+  border-radius: 9px;
+  margin-left: 8px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+
+.PaddingImage{
+  padding-top: 100px;
+}
+
+.twoButtonsContainerValidation {
+  margin-top: 20px;
+}
+
+.input_containers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+#AnnulerButton {
+  background: green;
+}
+
+#ValiderButton {
+  background: #287bcd;
+}
+
+.ModifierProfilTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.closeTag {
+  font-size: 38px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+.closeTagContainer {
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.ProfileUploadingImageScale2{
+  width: 87.5px;
+  height: 87.5px;
+  border-radius: 43.75px;
+}
+
+.InputUploadContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 40px;
+  margin-top: 10px;
+  padding-right: 40px;
+}
+
+#inputButtnoImg{
+}
+
+.InputButton{
+}
+
+.uploadImgbtn{
+  background: #287bcd;
+  border: none;
+  border-radius:20px ;
+  width: 200px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.uploadImgbtnvierge{
+  background: none;
+  border: none;
+  cursor: pointer;
+
+}
+
+.imgcontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#errNom{
+  display: none;
+  color: red;
+}
+
+#nomInput{
+  border: 1px solid black ;
+}

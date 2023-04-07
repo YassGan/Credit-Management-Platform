@@ -1,0 +1,25 @@
+
+
+
+.Message_container{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.boutonAccueil{
+    width: 120px;
+    height: 30px;
+    background: rgb(26, 104, 26);
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.boutonAccueilContainer{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
